@@ -1,7 +1,7 @@
 const MongoClient = require('mongodb').MongoClient;
 
 // Connection URL
-const url =  'mongodb://activiot_mongo:27017';
+const url =  'mongodb://81.53.247.47:27017';
 
 // Database Name
 const dbName = 'myproject';
